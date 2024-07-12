@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+"ingrese su saldo"
+5
+1
+5
+saldo
+7
+0
+1
+12
+saldo >20000
+6
+1
+4
+pres
+11
+saldo+10000
+4
+1
+26
+"su saldo queda en:" ,pres
+13
+6
+3
+5
+compu
+10
+saldo-5000
+11
+mobiliario 
+10
+compu-2000
+6
+insumo
+13
+mobiliario /2
+4
+1
+54
+"su restante de la inversion del equipo es de:" ,compu
+4
+1
+66
+"su restante de la inversion del inmobiliario es de:" ,mobiliario 
+4
+1
+24
+"si compra insumos o no"
+5
+1
+8
+decicion
+7
+0
+1
+14
+decicion ="si"
+4
+1
+36
+"el valor total es de:" ,mobiliario 
+13
+4
+1
+42
+"el valor para los insumos es de:" ,insumo
+6
+1
+1
+i
+12
+insumo+10000
+4
+1
+32
+"su saldo de prestamo es de:" ,i
+13
+13
+1

@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+"ingrese el monto"
+5
+1
+5
+monto
+4
+1
+22
+"ingrese su inversion"
+5
+1
+9
+inversion
+7
+0
+1
+14
+monto>=1000000
+7
+0
+1
+13
+monto<1000000
+13
+6
+2
+9
+cantidad1
+15
+monto-inversion
+9
+cantidad2
+11
+cantidad1/2
+4
+1
+47
+"el restante de su inversion es de:" ,cantidad1
+4
+1
+32
+"su invercion es de:" ,cantidad2
+13
+13
+6
+2
+9
+cantidad3
+15
+monto-inversion
+9
+cantidad4
+11
+cantidad3/2
+4
+1
+32
+"su restante es de:"  ,cantidad3
+4
+1
+46
+"la reparticion  para ambos es de:" ,cantidad4
+13
+1

@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"Ingrese su sueldo"
+5
+1
+6
+sueldo
+4
+1
+18
+"Ingrese los años"
+5
+1
+4
+años
+6
+3
+3
+mas
+11
+sueldo*0.20
+5
+menos
+11
+sueldo*0.05
+7
+sue_mas
+10
+mas+sueldo
+6
+2
+7
+sue_men
+12
+menos+sueldo
+5
+mayor
+6
+sueldo
+7
+1
+1
+25
+sueldo < 500 and años>=10
+4
+1
+27
+"su sueldo es de:" ,sue_mas
+13
+7
+1
+1
+24
+sueldo < 500 and años<10
+4
+1
+27
+"su sueldo es de:" ,sue_men
+13
+7
+1
+1
+12
+sueldo > 500
+4
+1
+22
+"Su sueldo es:" ,mayor
+13
+13
+13
+13
+1

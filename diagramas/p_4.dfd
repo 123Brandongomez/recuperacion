@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"ingrese pocentaje"
+5
+1
+10
+porcentaje
+7
+1
+1
+15
+porcentaje < 50
+4
+1
+16
+"Fuera de nivel"
+13
+7
+1
+1
+39
+porcentaje >= 50 and porcentaje <75    
+4
+1
+15
+"Nivel regular"
+13
+7
+1
+1
+33
+porcentaje>= 75 and porcentaje<90
+4
+1
+13
+"Nivel medio"
+13
+7
+1
+1
+15
+porcentaje>= 90
+4
+1
+16
+"Nivel superior"
+13
+13
+13
+13
+13
+1

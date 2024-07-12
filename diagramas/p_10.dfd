@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"Ingrese su genero"
+5
+1
+4
+sexo
+4
+1
+17
+"ingrese su edad"
+5
+1
+4
+edad
+6
+2
+9
+masculino
+18
+(220 - edad) / 10 
+8
+femenino
+17
+(210 - edad) / 10
+7
+0
+1
+16
+sexo="masculino"
+7
+0
+1
+15
+sexo="femenino"
+13
+4
+1
+32
+"las pulsaciones son:" ,femenino
+13
+13
+4
+1
+35
+"las pulsaciones son:" ,masasculino
+13
+1

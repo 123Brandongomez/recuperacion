@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"Dinero a invertir"
+5
+1
+6
+dinero
+4
+1
+15
+"Los intereses"
+5
+1
+9
+intereses
+6
+3
+6
+cuenta
+16
+dinero*intereses
+5
+monto
+13
+cuenta+dinero
+0
+
+1
+ 
+7
+0
+1
+13
+cuenta > 7000
+4
+1
+23
+"cantidad insuficiente"
+13
+4
+1
+75
+"Dinero en la cuenta: " , monto , "y los intereses ganados son de:" ,cuenta
+13
+1

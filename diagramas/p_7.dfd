@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"Ingrese los metros a combertir"
+5
+1
+6
+metros
+6
+3
+11
+centimetros
+10
+metros*100
+10
+kilometros
+11
+metros*1000
+8
+pulgadas
+12
+metros*39.37
+4
+1
+41
+"En centimetros equivale a:" ,centimetros
+4
+1
+39
+"En kilometros equivale a:" ,kilometros
+4
+1
+35
+"En pulgadas equivale a:" ,pulgadas
+1
